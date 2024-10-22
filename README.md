@@ -3,6 +3,7 @@
 ## Mô tả
 -  Sử dụng để thông báo khi đăng nhập thành công, thất bại hoặc thay đổi trạng thái của một đối tượng
 
+    <img src="alert-hinh-anh-vidu.png">
 ##  Cách sử dụng
 -  Thêm element vào html (file muốn hiển thị các thông báo)
 ```html
